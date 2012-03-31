@@ -1,0 +1,8 @@
+.DS_Store
+Icon*
+dist/
+dwight.egg-info/
+build/
+MANIFEST
+*.pyc
+*.pyo
